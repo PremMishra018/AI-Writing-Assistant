@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-from config import API_KEY
+API_KEY = st.secrets["API_KEY"]
 
 
 # Gemini Configuration
