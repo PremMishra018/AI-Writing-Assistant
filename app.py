@@ -73,7 +73,7 @@ st.markdown("---")
 
 with st.sidebar:
     
-    st.image("assets/logo.png", width=90)
+    
     st.title("🤖 AI Assistant")
 
     st.markdown("""
