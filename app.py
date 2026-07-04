@@ -62,7 +62,7 @@ div[data-testid="stAlert"]{
 col1, col2 = st.columns([1, 4])
 
 with col1:
-    logo = Image.open("assets/logo.png")
+    logo = Image.open("logo.png")
     st.image(logo, width=100)
 
 with col2:
