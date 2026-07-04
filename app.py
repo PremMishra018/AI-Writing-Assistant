@@ -56,7 +56,7 @@ div[data-testid="stAlert"]{
 
 
 
-#Ye current UI se kaafi clean lagega.
+#Ye current UI se kaafi clean lagg ne lage ga 
 
 
 col1, col2 = st.columns([1, 4])
@@ -76,7 +76,7 @@ st.markdown("---")
 
 with st.sidebar:
     
-    #st.image("assets/logo.png", width=90)
+    st.image(logo.png", width=90)
     
     st.title("🤖 AI Assistant")
 
