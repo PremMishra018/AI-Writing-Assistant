@@ -191,4 +191,4 @@ Return only the final text.
         st.warning("Please enter some text.")
 
         st.markdown("---")
-        st.caption("🚀 Developed by Prem Prakash Mishra | Powered by Google Gemini AI")
+        st.caption(" Developed by Prem Prakash Mishra | Powered by Google Gemini AI")
